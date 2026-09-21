@@ -1,0 +1,8 @@
+numpy>=1.26
+h5py>=3.10
+scikit-learn>=1.4
+matplotlib>=3.8
+pytest>=8.0
+# added on day 12
+# faiss-cpu>=1.8
+# psycopg[binary]>=3.1
